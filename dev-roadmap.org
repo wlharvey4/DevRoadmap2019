@@ -1,0 +1,472 @@
+# -*- mode: org; fill-column: 79; -*-
+
+#+TITLE: Developer Roadmap 2019
+#+AUTHOR: Kamran Ahmed
+#+DATE: January 4, 2019
+#+CREATOR: WLHarvey4
+#+MACRO: VERSION 0.0.1
+
+Below you find a set of charts demonstrating the paths that you can take and
+the technologies that you would want to adopt in order to become a frontend,
+backend or a devops. I made these charts for an old professor of mine who
+wanted something to share with his college students to give them a perspective;
+sharing them here to help the community.
+
+@@html:<h3>@@Disclaimer@@html:</h3>@@
+#+begin_aside
+The purpose of these roadmaps is to give you an idea about the landscape and to
+guide you if you are confused about what to learn next and not to encourage you
+to pick what is hip and trendy. You should grow some understanding of why one
+tool would better suited for some cases than the other and remember hip and
+trendy never means best suited for the job
+#+end_aside
+
+* Roadmap for All Paths
+
+** Git --- Version Control
+
+** Basic Terminal Usage
+
+** Data Structures and Algorithms
+
+** SOLID --- KISS --- YAGNI
+
+** GitHub
+
+** Licenses
+
+** Semantic Versioning
+
+** SSH
+
+** HTTP --- HTTPS --- API's
+
+** Design Patterns
+
+** Character Encodings
+
+
+* Front-End Roadmap
+
+** Learn the Basics
+
+*** HTML
+
+*** CSS
+
+*** Basics of JavaScript
+
+** Package Managers
+
+*** npm
+
+*** yarn
+
+** CSS Preprocessors
+
+*** SASS
+
+*** PostCSS
+
+*** Less
+
+** CSS Frameworks
+
+*** Bootstrap
+
+*** Materialize CSS
+
+*** Bulma
+
+*** Semantics UI
+
+** CSS Architecture
+
+*** BEM
+
+*** OOCSS
+
+*** SMACSS
+
+** Build Tools
+
+*** Task Runners
+
+*** Module Bundlers
+
+*** Linters and Formatters
+
+** Pick a Framework
+
+*** ReactJS
+
+*** Angular
+
+**** RxJS
+
+**** ngrx
+
+*** VueJS
+
+**** Vuex
+
+** CSS in JS
+
+*** Styled Components
+
+*** CSS Modules
+
+*** Emotion
+
+*** Radium
+
+*** Glamorous
+
+** Testing Your App
+
+*** Jest
+
+*** Enzyme
+
+*** Cypress
+
+*** Mocha
+
+*** Chai
+
+*** Ava
+
+*** Karma
+
+*** Jasmine
+
+*** Protractor
+
+*** Types of Testing
+
+**** Unit
+
+**** Integration
+
+**** Functional
+
+** Progressive Web Apps (PWAs)
+
+*** Web APIs Used in PWAs
+
+**** Storage
+
+**** Web Sockets
+
+**** Service Workers
+
+**** Location
+
+**** Notifications
+
+**** Device Orientation
+
+**** Payments
+
+**** Credentials
+
+*** Calculating, Measuring, and Improving Performance
+
+**** PRPL Pattern
+
+**** RAIL Model
+
+**** Performance Metrics
+
+**** Using Light House
+
+**** Using DevTools
+
+** Type Checkers
+
+*** TypeScript
+
+*** Flow
+
+** Server Side Rendering
+
+*** ReactJS
+
+**** Next.js
+
+**** After.js
+
+*** Angular
+
+**** Universal
+
+*** VueJS
+
+**** Nuxt.js
+
+** Static Site Generators
+
+*** Gatsby
+
+** Desktop Applications
+
+*** Electron
+
+*** Proton Native
+
+*** Carlo
+
+** Mobile Applications
+
+*** React Native
+
+*** NativeScript
+
+** Web Assembly
+
+** Keep Learning
+
+* Back-End Roadmap
+
+** Pick a Language
+   There are myriads of different options.
+
+*** Scripting Languages
+
+**** Python
+
+**** Ruby
+
+**** PHP
+
+**** Node.js
+
+**** TypeScript
+
+*** Functional Languages
+
+**** Elixir
+
+**** Scala
+
+**** Erlang
+
+**** Clojure
+
+**** Haskell
+
+*** Other Options
+
+**** Java
+
+**** .NET
+
+**** Golang
+
+**** Rust
+
+** Practice What You Learnt
+
+** Learn Package Manager
+
+** Standards and Best Practices
+
+** Make and Distribute Some Package or Library
+
+** Learn About Testing
+
+** Write Tests for the Practical Steps Above
+
+** Learn Relational Databases
+
+** Practical Time
+
+** Learn a Framework
+
+** Practical Time
+
+** Learn a NoSQL Database
+
+** Coaching
+
+** Creating RESTful APIs
+
+** Authentication/Authorizations Methodologies
+
+** Message Brokers
+
+** Learn a Search Engine
+
+** Learn How to User Docker
+
+** Knowledge of Web Servers
+
+** Learn How to Use Web Sockets
+
+** Learn GraphQL
+
+** Look Into Graph Databases
+
+** All Things Not Mentioned Above
+
+** Keep Exploring
+
+* DevOps Roadmap
+
+** Learn a Programming Language
+
+*** Go
+
+*** Rust
+
+*** C C++
+
+*** Python
+
+*** Ruby
+
+*** Node.js
+
+** Understand Different OS Concepts
+
+*** I/O Management
+
+*** Virtualization
+
+*** Memory and Storage
+
+*** File Systems
+
+*** Process Management
+
+*** Threads and Concurrency
+
+*** Sockets
+
+** Learn About Managing Servers
+
+*** Operating Systems
+
+**** Linux
+
+**** Unix
+
+**** Windows
+
+*** Learn to Live in Terminal
+
+**** Bash Scripting
+
+**** Vim/Nano/PowerShell/Emacs
+
+**** Compiling Apps from Source
+
+**** System Performance
+
+**** Others
+
+** Networking and Security
+
+*** OSI Model
+
+*** DNS
+
+*** HTTP/S
+
+*** FTP
+
+*** SSL/TLS
+
+** What Is and How To Set Up ...
+
+*** Reverse Proxy
+
+*** Forward Proxy
+
+*** Coaching Server
+
+*** Load Balancer
+
+*** Firewall
+
+** Learn Infrastructure as Code
+
+*** Containers
+
+*** Configuration and Management
+
+*** Container Orchestration
+
+*** Infrastructure Provisioning
+
+** Learn Some CI/CD Tools
+
+*** Jenkins
+
+*** Travis CI
+
+*** Teamcit
+
+*** Drone
+
+*** Circle CI
+
+** Learn How to Monitor Software and Infrastructure
+
+*** Infrastructure Monitoring
+
+*** Application Monitoring
+
+*** Logs Management
+
+** Cloud Providers
+
+*** AWS
+
+*** Google Cloud
+
+*** Azure
+
+*** Digital Ocean
+
+*** Heroku
+
+** Keep Exploring
+
+* Wrap Up
+  If you think any of the roadmaps can be improved, please do open a PR with
+  any updates and submit any issues. Also, I will continue to improve this, so
+  you might want to watch/star this repository to revisit.
+
+* Contribution
+  Have a look at [[https://github.com/kamranahmedse/developer-roadmap/blob/master/contributing.md][contribution docs]] for how to update any of the roadmaps.
+
+  - Open pull request with improvements
+  - Discuss ideas in issues
+  - Spread the word
+  - Reach out with any feedback 
+
+* Sponsored By
+
+  - [[https://hackr.io/][Hackr.io - Find & Share the Best Online Programming Courses & Tutorials]]
+
+* License
+  [[https://creativecommons.org/licenses/by-nc-sa/4.0/]]
+
+* EXPORT OPTIONS                                                   :noexport:
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t creator:t
+#+HTML_DOCTYPE: html5
+#+HTML_CONTAINER: div
+#+DESCRIPTION: Roadmap to becoming a Web Developer in 2019; https://github.com/kamranahmedse/developer-roadmap
+#+KEYWORDS: roadmap developer web-developer front-end-developer back-end-developer devops
+#+HTML_LINK_HOME: https://github.com/kamranahmedse/developer-roadmap
+#+HTML_LINK_UP:
+#+HTML_MATHJAX:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+SUBTITLE:
+#+INFOJS_OPT:
+#+CREATOR: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.1.14)
+#+LATEX_HEADER:
+#+SUBAUTHOR: https://github.com/kamranahmedse/

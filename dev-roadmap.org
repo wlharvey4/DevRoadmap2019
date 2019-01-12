@@ -2,9 +2,9 @@
 
 #+TITLE: Developer Roadmap 2019
 #+AUTHOR: Kamran Ahmed
-#+DATE: January 4, 2019
+#+DATE: <2019-01-12 Sat 10:19>
 #+CREATOR: WLHarvey4
-#+MACRO: VERSION 0.0.1
+#+MACRO: VERSION 0.0.2
 
 Below you find a set of charts demonstrating the paths that you can take and
 the technologies that you would want to adopt in order to become a frontend,
@@ -25,6 +25,19 @@ trendy never means best suited for the job
 
 ** Git --- Version Control
 
+   "Git is a fast distributed revision control system."
+
+   - [[https://git-scm.com][git-scm]]
+   - [[https://git-scm.com/downloads][Downloads]]
+   - [[https://github.com/git][Git Source]]
+   - [[https://git-scm.com/docs/user-manual.html][Git User Manual]]
+   - [[https://git-scm.com/docs][Git Reference Manual]]
+   - [[https://book.git-scm.com/book/en/v2][Pro Git]] by Scott Chacon
+
+*** Git Tutorials
+
+    - From the commandline, type ~git help tutorial~
+
 ** Basic Terminal Usage
 
 ** Data Structures and Algorithms
@@ -44,7 +57,6 @@ trendy never means best suited for the job
 ** Design Patterns
 
 ** Character Encodings
-
 
 * Front-End Roadmap
 
@@ -455,7 +467,7 @@ trendy never means best suited for the job
 
 * EXPORT OPTIONS                                                   :noexport:
 #+OPTIONS: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
-#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t creator:t
+#+OPTIONS: html-scripts:t html-style:t html5-fancy:t tex:t creator:t ':t
 #+HTML_DOCTYPE: html5
 #+HTML_CONTAINER: div
 #+DESCRIPTION: Roadmap to becoming a Web Developer in 2019; https://github.com/kamranahmedse/developer-roadmap
